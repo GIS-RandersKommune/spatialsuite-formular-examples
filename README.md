@@ -1,4 +1,4 @@
-# spatialsuite-formular-examples
+# Eksempelsamling til Formularmodulet
 
 En samling af virkelige eksempler på konfigurationer til Formularmodulet til Spatial Suite. Eksemplerne er samler som "pakker", der næsten kan bruges direkte eller benyttes som inspiration til egen anvendelse.
 
