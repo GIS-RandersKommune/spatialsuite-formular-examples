@@ -4,6 +4,8 @@ En samling af virkelige eksempler på konfigurationer til Formularmodulet til Sp
 
 Til hver pakke placeres en readme.md der beskriver hvad det er pakken indeholder samt hvad man skal gøre for at bruge den. Alle pakker indeholder ligeledes en config mappe med en konfiguration til formularen.
 
+Hvis en pakke indeholder PDF-generering, så læg også gerne et eksempel på den PDF, der kommer ud af det. Herved er det nemmere at se hvad resultatet bliver.
+
 Opbygningen af strukturen i dette repository er i stil med dette:
 
 - albertslund
